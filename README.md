@@ -10,7 +10,4 @@ WebAPI Desarrollada con las siguientes tecnologias:
   
 Preview:
 
-  https://reportcardcris.herokuapp.com/
-  
-  Usuario: david 
-  Password: 123
+  /* NO PREVIEW AVAILABLE */
